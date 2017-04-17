@@ -12,6 +12,20 @@ main .row {
   padding-top: 30px;
 }
 
-nav {
+header {
   background-color: #F5BE12;
+  display: block;
+}
+
+.characterCard {
+  border: 1px solid lightgray;
+  margin-top: 30px;
+}
+
+.imageCard > img {
+  width: 100%;
+}
+
+.descriptionCard {
+  padding: 0px 10px 30px 10px;
 }
